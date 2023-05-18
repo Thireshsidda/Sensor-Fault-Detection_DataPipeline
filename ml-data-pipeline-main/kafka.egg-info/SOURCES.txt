@@ -1,0 +1,17 @@
+README.md
+setup.py
+kafka.egg-info/PKG-INFO
+kafka.egg-info/SOURCES.txt
+kafka.egg-info/dependency_links.txt
+kafka.egg-info/requires.txt
+kafka.egg-info/top_level.txt
+src/__init__.py
+src/constant/__init__.py
+src/entity/__init__.py
+src/entity/generic.py
+src/kafka_config/__init__.py
+src/kafka_consumer/__init__.py
+src/kafka_consumer/json_consumer.py
+src/kafka_logger/__init__.py
+src/kafka_producer/__init__.py
+src/kafka_producer/json_producer.py
