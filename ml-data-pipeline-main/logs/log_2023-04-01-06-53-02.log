@@ -1,1 +1,0 @@
-[2023-04-01 06:53:03,643]^;INFO^;69^;json_producer.py^;product_data_using_file()^;Topic: kafka-sensor-topic file_path:sample_data\kafka-sensor-topic\aps_failure_training_set1.csv
