@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 Below repo help you to obtain requried credentials
 ```
-[https://github.com/Big-Data-01/confluent-tutorial.git](https://github.com/Thireshsidda/I.MechanicalFinalYear-DataScienceProject-SENSORFAULTDETECTION_Confluent-Tutorial)
+https://github.com/Big-Data-01/confluent-tutorial.git](https://github.com/Thireshsidda/I.MechanicalFinalYear-DataScienceProject-SENSORFAULTDETECTION_Confluent-Tutorial
 ```
 
 
